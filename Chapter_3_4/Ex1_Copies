@@ -11,5 +11,5 @@ else:
     totalcopies = round(copies*.3,2)
 
 print("price per copy is:", totalcopies/copies)
-print("Total cost is: ",totalcopies)
+print("Total cost for the copies is: ",totalcopies)
    
