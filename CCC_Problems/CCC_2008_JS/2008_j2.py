@@ -1,0 +1,1 @@
+#CAN Finish string methods
